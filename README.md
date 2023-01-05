@@ -9,7 +9,7 @@ The repo shows how to implement CMU OAuth (sign-in with CMU Account) in your own
 
 ## Note
 
-This repo include .env file to kickstart required variables for you. But in practice, you should only include .env in **private repo** not **public repo**!.
+This repo include .env file to kickstart required variables for you. But in practice, you should only include .env in **private repo** not **public repo** !
 
 
 
