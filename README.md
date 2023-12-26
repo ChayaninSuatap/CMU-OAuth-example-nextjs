@@ -7,7 +7,7 @@ The repo shows how to implement CMU OAuth (sign-in with CMU Account) in your own
 3. Update NEXT_PUBLIC_CMU_OAUTH_URL variable in the .env
 4. Run **npm run dev**
 
-## Note
+## Warning
 
 This repo include .env file to kickstart required variables for you. But in practice, you should not include .env in repository at all!
 
